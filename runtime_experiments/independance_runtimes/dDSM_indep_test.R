@@ -1,7 +1,13 @@
 # Analysis of Dempster-Shafer Code
-## compiled by: Alexander C. Murph
 
-#devtools::install_github("pierrejacob/dempsterpolytope@a67326c")
+####################################################################################
+# This code is a derivative work of code
+# originally written by Kentaro Hoffman.  Written permission was given by the
+# author to post this code using any license.  It is posted here under the same
+# license as the entire repository: MIT.
+## compiled by: Alexander C. Murph
+####################################################################################
+
 library(ggplot2)
 library(tidyverse)
 library(foreach)

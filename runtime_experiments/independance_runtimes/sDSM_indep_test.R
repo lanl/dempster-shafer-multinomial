@@ -1,5 +1,12 @@
 # Kentaro's independence experiment made into a regular R script for parallelization.
+
+####################################################################################
+# This code is a derivative work of code
+# originally written by Kentaro Hoffman.  Written permission was given by the
+# author to post this code using any license.  It is posted here under the same
+# license as the entire repository: MIT.
 ## compiled by: Alexander C. Murph
+####################################################################################
 
 #devtools::install_github("pierrejacob/dempsterpolytope@a67326c")
 library(ggplot2)

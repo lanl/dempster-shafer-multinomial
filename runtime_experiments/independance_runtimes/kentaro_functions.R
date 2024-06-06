@@ -1,5 +1,11 @@
 # helper functions for kentaro_script.R
+
+####################################################################################
+# This code was originally written by Kentaro Hoffman.  Written permission was given by the
+# author to post this code using any license.  It is posted here under the same
+# license as the entire repository: MIT.
 ## compiled by: Alexander C. Murph
+####################################################################################
 
 ds.value.sum = function(ds.particle, location.x,location.y, divisions,i.division, weakening = T, Hellinger = F){
   
