@@ -5,8 +5,9 @@ All code used to perform the experiments in the cited publication.  For question
 This repository is organized according to the different directories needed to perform the experiment in the paper.  These directories are:
 
 
-*paper_graphics: code to create the figures in the paper;
-*runtime_experiments: code to recreate the computational runtime experiments in the paper.
+* paper_graphics: code to create the figures in the paper;
+
+* runtime_experiments: code to recreate the computational runtime experiments in the paper.
 
 
 ## Software Required
